@@ -36,6 +36,8 @@
 
 ## Pattern 5: Longest Common Substring
 
+**Note**: Some questions to be added soon
+
 1. [Longest Common Substring](./Pattern-5%20Longest%20Common%20Substring/Longest%20Common%20Substring/notes.md)
 2. Longest Common Subsequence
 3. [Minimum Deletions and Insertions to transform a string into another](./Pattern-5%20Longest%20Common%20Substring/Minimum%20Insertions%20or%20Deletions%20to%20Transform/notes.md)
