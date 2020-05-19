@@ -39,15 +39,15 @@
 **Note**: Some questions to be added soon
 
 1. [Longest Common Substring](./Pattern-5%20Longest%20Common%20Substring/Longest%20Common%20Substring/notes.md)
-2. Longest Common Subsequence
+2. [Longest Common Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Common%20Subsequence/notes.md)
 3. [Minimum Deletions and Insertions to transform a string into another](./Pattern-5%20Longest%20Common%20Substring/Minimum%20Insertions%20or%20Deletions%20to%20Transform/notes.md)
 4. [Longest Increasing Subsequence](./Pattern-5%20Longest%20Common%20Substring/Maximum%20Sum%20Increasing%20Subsequence/notes.md)
 5. [Maximum Sum Increasing Subsequence](./Pattern-5%20Longest%20Common%20Substring/Maximum%20Sum%20Increasing%20Subsequence/notes.md)
 6. [Shortest Common Supersequence](./Pattern-5%20Longest%20Common%20Substring/Shortest%20Common%20Supersequence/notes.md)
 7. [Minimum Deletions to Make Sequence Sorted](./Pattern-5%20Longest%20Common%20Substring/Minimum%20Deletions%20To%20Make%20Sequence%20Sorted/notes.md)
-8. Longest Repeating Subsequence
-9. Subsequence Pattern Matching
-10. Longest Bitonic Subsequence
-11. Longest Alternating Subsequence
+8. [Longest Repeating Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Repeating%20Subsequence/notes.md)
+9. [Subsequence Pattern Matching](./Pattern-5%20Longest%20Common%20Substring/Subsequence%20Pattern%20Matching/notes.md)
+10. [Longest Bitonic Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Bitonic%20Subsequence/notes.md)
+11. [Longest Alternating Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Alternating%20Subsequence/notes.md)
 12. Edit Distance
 13. Strings Interleaving
