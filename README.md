@@ -36,8 +36,6 @@
 
 ## Pattern 5: Longest Common Substring
 
-**Note**: Some questions to be added soon
-
 1. [Longest Common Substring](./Pattern-5%20Longest%20Common%20Substring/Longest%20Common%20Substring/notes.md)
 2. [Longest Common Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Common%20Subsequence/notes.md)
 3. [Minimum Deletions and Insertions to transform a string into another](./Pattern-5%20Longest%20Common%20Substring/Minimum%20Insertions%20or%20Deletions%20to%20Transform/notes.md)
@@ -49,5 +47,5 @@
 9. [Subsequence Pattern Matching](./Pattern-5%20Longest%20Common%20Substring/Subsequence%20Pattern%20Matching/notes.md)
 10. [Longest Bitonic Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Bitonic%20Subsequence/notes.md)
 11. [Longest Alternating Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Alternating%20Subsequence/notes.md)
-12. Edit Distance
-13. Strings Interleaving
+12. [Edit Distance](./Pattern-5%20Longest%20Common%20Substring/Edit%20Distance/notes.md)
+13. [Strings Interleaving](./Pattern-5%20Longest%20Common%20Substring/Strings%20Interleaving/notes.md)
