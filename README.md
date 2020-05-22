@@ -16,6 +16,7 @@
 3. [Coin Change](./Pattern-2%20Unbounded%20Knapsack/Coin%20Change/notes.md)
 4. [Minimum Coin Change](./Pattern-2%20Unbounded%20Knapsack/Minimum%20Coin%20Change/notes.md)
 5. [Maximum Ribbon Cut](./Pattern-2%20Unbounded%20Knapsack/Maximum%20Ribbon%20Cut/notes.md)
+6. [Score Combinations](./Pattern-2%20Unbounded%20Knapsack/Score%20Combinations/notes.md)
 
 ## Pattern 3: Fibonacci Numbers
 
@@ -49,3 +50,7 @@
 11. [Longest Alternating Subsequence](./Pattern-5%20Longest%20Common%20Substring/Longest%20Alternating%20Subsequence/notes.md)
 12. [Edit Distance](./Pattern-5%20Longest%20Common%20Substring/Edit%20Distance/notes.md)
 13. [Strings Interleaving](./Pattern-5%20Longest%20Common%20Substring/Strings%20Interleaving/notes.md)
+
+## Other Questions
+
+1. [Decode Ways](./Other%20Questions/Decode%20Ways/notes.md)
