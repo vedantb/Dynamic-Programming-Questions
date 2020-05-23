@@ -54,3 +54,14 @@
 ## Other Questions
 
 1. [Decode Ways](./Other%20Questions/Decode%20Ways/notes.md)
+2. [Last Stone Weight 2](./Other%20Questions/Last%20Stone%20Weight%202/notes.md)
+3. [Min Cost Climbing Stairs](./Other%20Questions/MIn%20Cost%20Climbing%20Stairs/notes.md)
+4. [Minimum Cost for Tickets](./Other%20Questions/Minimum%20Cost%20For%20Tickets/notes.md)
+5. [Minimum Falling Path Sum](./Other%20Questions/Minimum%20Falling%20Path%20Sum/notes.md)
+6. [Minimum Path Sum](./Other%20Questions/Minimum%20Path%20Sum/notes.md)
+7. [Ones and Zeroes](./Other%20Questions/Ones%20and%20Zeroes/notes.md)
+8. [Perfect Squares](./Other%20Questions/Perfect%20Squares/notes.md)
+9. [Triangle](./Other%20Questions/Trinagle/notes.md)
+10. [Dungeon Game](./Other%20Questions/Dungeon%20Game/notes.md)
+11. [Maximal Square](./Other%20Questions/Maximal%20Square/notes.md)
+12. [Minimum Number of Refueling Stops](./Other%20Questions/Minimum%20Number%20of%20Refueling%20Stops/notes.md)
